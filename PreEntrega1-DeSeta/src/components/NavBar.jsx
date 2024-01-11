@@ -3,7 +3,7 @@ import LogoSanSeverino from "./LogoSanSeverino";
 
 const NavBar = () => {
     return (
-        <div className="container my-3 bg-info">
+        <div className="container-fluid my-3 bg-info">
             <div className="row">
                 <div className="col-md-2 d-flex justify-content-center">
                     <LogoSanSeverino tamano={120} />
